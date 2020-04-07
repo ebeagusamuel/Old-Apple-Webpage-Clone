@@ -25,11 +25,9 @@ nav{
 
 nav ul {
 	display: flex;
-}
-
-ul {
 	list-style: none;
 }
+
 
 button:hover{
 	background-color:#4d4b4b;
