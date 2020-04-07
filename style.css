@@ -155,6 +155,12 @@ footer {
 	color: #6e6e6e;
 }
 
+footer ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
 .list li {
 	display: inline-block;
 }
