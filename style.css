@@ -1,6 +1,8 @@
 body {
   position: relative;
   width: 1366px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .main {
