@@ -23,8 +23,12 @@ nav{
 	border-radius: 5px;
 }
 
-nav ol {
+nav ul {
 	display: flex;
+}
+
+ul {
+	list-style: none;
 }
 
 button:hover{
@@ -109,16 +113,40 @@ p {
 	display: flex;
 }
 
-.img-div {
+.img-div1 {
 	height: 200px;
 	width: 341px;
 	background-color: yellow;
+	background: url(https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_iphone5s_2x.jpg);
+	background-size: 341px 200px;
 	border: none;
 }
 
-#img-container img {
-	width: 341px;
+.img-div2 {
 	height: 200px;
+	width: 341px;
+	background-color: yellow;
+	background: url(https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_iphone5c_2x.jpg);
+	background-size: 341px 200px;
+	border: none;
+}
+
+.img-div3 {
+	height: 200px;
+	width: 341px;
+	background-color: yellow;
+	background: url(https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_30_years_2x.jpg);
+	background-size: 341px 200px;
+	border: none;
+}
+
+.img-div4 {
+	height: 200px;
+	width: 341px;
+	background-color: yellow;
+	background: url(https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_supplier_responsibility_2x.jpg);
+	background-size: 341px 200px;
+	border: none;
 }
 
 footer {
